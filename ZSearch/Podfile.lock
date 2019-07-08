@@ -1,0 +1,20 @@
+PODS:
+  - Hero (1.4.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - Hero
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hero
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 6bc97a52a53617648350fd3c22d437a9c7817f68
+
+COCOAPODS: 1.6.1
